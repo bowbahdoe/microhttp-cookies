@@ -10,7 +10,7 @@ Utility for parsing cookie headers from requests.
 <dependency>
     <groupId>dev.mccue</groupId>
     <artiactId>microhttp-cookies</artiactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
@@ -18,7 +18,7 @@ Utility for parsing cookie headers from requests.
 
 ```groovy
 dependencies {
-    implementation('dev.mccue:microhttp-cookies:0.0.1')
+    implementation('dev.mccue:microhttp-cookies:0.0.2')
 }
 ```
 
